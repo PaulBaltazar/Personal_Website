@@ -17,7 +17,7 @@ nav{
     background-color: lightblue;
     text-align: center;
 }
-nav{
+.navlinks{
     list-style-type: none;
 }
 .copyright{
