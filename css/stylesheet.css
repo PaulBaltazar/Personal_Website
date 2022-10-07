@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(89, 173, 206);
+    background-color: rgb(80, 200, 120);
 }
 h1 {
     color: white;
@@ -12,4 +12,11 @@ p {
 }
 li {
     color: white;
+}
+nav{
+    background-color: lightblue;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
 }
