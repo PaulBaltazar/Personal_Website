@@ -1,14 +1,8 @@
 body {
-    background-color: rgb(80, 200, 120);
+    background-color: rgb(27, 69, 85);
 }
-h1 {
-    color: white;
-}
-h2 {
-    color: white;
-}
-p {
-    color: white;
+p,h1,h2 {
+    color: white
 }
 li {
     color: white;
@@ -22,13 +16,13 @@ nav{
 }
 .copyright{
     position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  color: white;
-  text-align: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
 }
 #Whos{
-    font-family: Montserrat,sans-serif;
+    font-family: Montserrat, sans-serif;
     text-align: center;
 }
