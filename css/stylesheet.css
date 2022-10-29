@@ -1,18 +1,18 @@
 body {
-    background-color: rgb(27, 69, 85);
+    background-color: #334259;
 }
 
 p,h1,h2 {
-    color: white
+    color: #E5E5DC;
 }
 
 li {
-    color: white;
+    color: #E5E5DC;
     margin: 5px;
 }
 
 nav{
-    background-color: lightblue;
+    background-color: #A6CAD4;
     text-align: center;
 }
 
@@ -22,13 +22,13 @@ nav{
 }
 
 div{
-    background-color: lightblue;
+    background-color: #A6CAD4;
 }
 
 .Copyright{
     display: grid;
     justify-content: center;
-    background-color: lightblue;
+    background-color: #A6CAD4;
 }
 
 #grid-container{
@@ -59,6 +59,7 @@ article{
 .header{
     font-family: Montserrat, sans-serif;
     display: grid;
-    background-color: lightblue;
+    color: #334259;
+    background-color: #A6CAD4;
     justify-content: center;
 }
